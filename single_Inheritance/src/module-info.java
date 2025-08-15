@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module single_Inheritance {
-}
